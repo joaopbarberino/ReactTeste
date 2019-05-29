@@ -1,0 +1,13 @@
+html {
+    height: 100vh;
+}
+
+
+.background{
+    background-color: #c43e3e;
+}
+
+.content {
+    margin-top: 35vh;
+    margin-bottom: 45vh;
+}
